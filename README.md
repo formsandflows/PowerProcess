@@ -7,5 +7,11 @@ And with that, I wish you a lot of fun creating your business solutions with the
 
 Rick
 
+## Full edition
+![Power Process - Logical design](https://github.com/user-attachments/assets/ef877b79-c34b-4b80-8c9b-934698076b66)
+
+## Light edition
+![Power Process - Light - Logical design](https://github.com/user-attachments/assets/3a6ab3cd-cfe7-4ca1-bd16-bdfdbe4e98bb)
+
 ## Documentation
 Links to documentation pages can be found [here](https://www.formsandflows.nl/redirects/powerprocess-github-documentation).
